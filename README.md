@@ -1,16 +1,12 @@
-### Hi there 👋
+### o/
 
-<!--
-**peter-mcconnell/peter-mcconnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been working in Dev/Ops for 20 years. Current focus is on
+Linux/Python/Golang/Bash/Infrastructure and security.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on building a distributed graph orchestration
+     framework in Python
+- 🌱 Learning Kubernetes
+- 👯 Happy to collaborate on anything SRE related
+- ⚡ Will play chess for beer
+- ⚡ Will play beer for chess
+- 📫 How to reach me: me@petermcconnell.com
