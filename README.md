@@ -5,7 +5,7 @@ Linux/Python/Golang/Bash/Infrastructure and security.
 
 - 🔭 I'm currently working on building a distributed graph orchestration
      framework in Python
-- 🌱 Learning Kubernetes
+- 🌱 Playing with Kubernetes
 - 👯 Happy to collaborate on anything SRE related
 - ⚡ Will play chess for beer
 - ⚡ Will play beer for chess
