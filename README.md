@@ -4,7 +4,7 @@ I've been working in tech for 20 years (web dev -> sre). Current focus is on
 Linux/Python/Golang/Bash/Infrastructure and security.
 
 - 🔭 I'm currently working on automating all the things @ Firebolt, making engineers and systems happy
-- 🌱 Learning eBPF
+- 🌱 Learning C, Kernel Module development and eBPF
 - 👯 Happy to collaborate on anything Bash, Python, Golang, Linux related
 - ⚡ Will play chess for beer
 - ⚡ Will play beer for chess
