@@ -1,6 +1,6 @@
 ### o/
 
-I've been working in Dev/Ops for 20 years. Current focus is on
+I've been working in tech for 20 years (web dev -> sre). Current focus is on
 Linux/Python/Golang/Bash/Infrastructure and security.
 
 - 🔭 I'm currently working on automating all the things @ Firebolt, making engineers and systems happy
