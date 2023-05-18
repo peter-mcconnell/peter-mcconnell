@@ -3,9 +3,9 @@
 I've been working in tech for 20 years (swe -> sre). Current focus is on
 Linux/Python/Golang/Bash/Infrastructure and security.
 
-- 🔭 For work I'm mostly focused on automation, developer experience and cloud infrastructure
-- 🌱 Learning C, Kernel Module development and eBPF
+- 🔭 For work I'm mostly focused on Linux, Golang, C, eBPF, Kubernetes and Cloud
+- 🌱 Learning C and Kernel Module development
 - 👯 Happy to collaborate on anything Bash, Python, Golang, Linux related
 - ⚡ Will play chess for beer
 - ⚡ Will play beer for chess
-- 📫 How to reach me: me@petermcconnell.com
+- 📫 How to reach me: me@petermcconnell.com / https://www.petermcconnell.com/
