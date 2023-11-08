@@ -1,7 +1,7 @@
 ### o/
 
 I've been working in tech for 20 years (swe -> sre). Current focus is on
-Linux/Python/Golang/Bash/Infrastructure and security.
+Linux and Cloud security with Golang, C & BPF.
 
 - 🔭 For work I'm mostly focused on Linux, Golang, C, eBPF, Kubernetes and Cloud
 - 🌱 Learning C and Kernel Module development
