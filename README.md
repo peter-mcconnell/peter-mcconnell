@@ -1,6 +1,6 @@
 ![only l33t little bots may contribute](https://github.com/peter-mcconnell/.dotfiles/raw/master/media/banner-robot.png)
 
-[![currently playing with](https://skillicons.dev/icons?i=ansible,aws,bash,c,cpp,docker,go,grafana,kubernetes,linux,mysql,neovim,nginx,postgres,prometheus,py,regex,rust)](https://skillicons.dev)
+![currently playing with](https://skillicons.dev/icons?i=ansible,aws,bash,c,cpp,docker,go,grafana,kubernetes,linux,mysql,neovim,nginx,postgres,prometheus,py,regex,rust)
 
 ### o/
 
