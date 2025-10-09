@@ -6,6 +6,6 @@
 
 I've been working in tech for 20 years (swe & sre). Working in the runtime security space. Most of my work is closed-source.
 
-- 🔭 For work I'm mostly focused on Linux, Golang, C, eBPF, Kubernetes and Cloud
+- 🔭 For work I'm mostly focused on building cloud security products and teams. Golang, K8s, AWS/GCP/Azure/Oracle
 - 🌱 Working on my C and Kernel Module development
 - 📫 How to reach me: me@petermcconnell.com / https://www.petermcconnell.com/
