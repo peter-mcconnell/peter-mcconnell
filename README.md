@@ -4,7 +4,7 @@
 
 ### o/
 
-I've been working in tech for 20 years (swe & sre). Working in the runtime security space. Most of my work is closed-source.
+I've been working in tech for 21 years (swe & sre). Mostly working on cloud products / currently focused on building security products. Most of my work is closed-source.
 
 - 🔭 For work I'm mostly focused on building cloud security products and teams. Golang, K8s, AWS/GCP/Azure/Oracle
 - 🌱 Working on my C and Kernel Module development
