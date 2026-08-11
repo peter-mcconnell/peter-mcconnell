@@ -4,8 +4,12 @@
 
 ### o/
 
-I've been working in tech for 21 years (swe & sre). Mostly working on cloud products / currently focused on building security products. Most of my work is closed-source.
+I’ve spent 21+ years building software, infrastructure products and engineering teams. Currently AVP Engineering & Belfast Site Lead at Upwind.io, where I lead teams building large-scale cloud security systems.
 
-- 🔭 For work I'm mostly focused on building cloud security products and teams. Golang, K8s, AWS/GCP/Azure/Oracle
-- 🌱 Working on my C and Kernel Module development
+I’m still an engineer at heart and remain hands-on with architecture, distributed systems, performance engineering and difficult production problems.
+
+Most of my professional work is closed-source. Here you’ll mostly find experiments and side projects around Go, C, Linux, eBPF, Kubernetes and cloud infrastructure.
+
+- 🔭 Building things that matter for the masses
+- 🌱 Always curious
 - 📫 How to reach me: me@petermcconnell.com / https://www.petermcconnell.com/
