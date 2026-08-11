@@ -8,7 +8,7 @@ I’ve spent 21+ years building software, infrastructure products and engineerin
 
 I’m still an engineer at heart and remain hands-on with architecture, distributed systems, performance engineering and difficult production problems.
 
-Most of my professional work is closed-source. Here you’ll mostly find experiments and side projects around Go, C, Linux, eBPF, Kubernetes and cloud infrastructure.
+Most of my professional work is closed-source. Here you’ll mostly find experiments and side projects around Go, Python, Linux, eBPF, Containers and cloud infrastructure.
 
 - 🔭 Building things that matter for the masses
 - 🌱 Always curious
